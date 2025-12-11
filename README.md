@@ -14,6 +14,13 @@ The daemon runs as a **systemd service** and includes an installer.
 
 ---
 
+## 🔗 Live Demo
+
+A running instance is available here:  
+http://speedtest.wifx.net:8888/
+
+---
+
 ## ✨ Features
 
 - Real-time monitoring of SSH/Telnet/PAM authentication failures  
